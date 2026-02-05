@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: TestGroup
+  m_EditorClassIdentifier: 
+  m_GroupName: TestGroup
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b84aa16a2643a4ab586b0741dcd4ade7
+  m_SerializeEntries:
+  - m_GUID: d794e10e47e16453bb7de54431b55154
+    m_Address: Assets/TestAssets/Shaders/Mask-Default.shader
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cef9d1ca8a8e8406f8efd8e543edd2af
+    m_Address: Assets/TestAssets/Textures/NailSalon_GlittersMedium.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fc4ad995d8d564ed3a93b4f2b9003870
+    m_Address: Assets/TestAssets/Textures/glitter_00047.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 7a82715e899e14b818c2ab743fe8064a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f2b3ab2b016974e62ada0629a4ca9fb4, type: 2}
+    - {fileID: 11400000, guid: 32e7b9fc50f444692b8973aa43920c7e, type: 2}
